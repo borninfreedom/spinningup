@@ -27,8 +27,6 @@ setup(
         'scipy',
         'seaborn==0.8.1',
         'tensorflow>=1.8.0,<2.0',
-        'torch==1.3.1',
-        'torchvision==0.4.2',
         'colorama==0.4.4',
         'pybullet==3.1.0',
         
